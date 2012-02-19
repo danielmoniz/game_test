@@ -1,0 +1,6 @@
+This is a Python text-based game experiment. It exists as a learning tool only.
+I will be adding to it as I come up with ideas for game structure and content.
+
+I am picking a game as a learning tool because it should force me to modularize my
+code. I intend on writing a basic AI script for it. Others should then be able
+to write their own scripts for the game and play against them.
